@@ -1,7 +1,7 @@
 API_ID=19986769
 API_HASH=ecdca6a8e80f8f5092c3712d221029e8
 BOT_TOKEN=5481276507:AAHs7rE3S0Q6ZTm8e4azy5txY3_9SeSLQMk
-MONGO_DB_URL=mongodb+srv://aditya:aditya@aditya.2oexaza.mongodb.net/?retryWrites=true&w=majority
+MONGO_DB_URL=mongodb+srv://Mukesh01:chuprah@cluster0.dz9iv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 OWNER_ID=5621406978
 DURATION_LIMIT=1200
 LOG_GROUP_ID=-1001636687636
