@@ -148,7 +148,7 @@ async def start_comm(client, message: Message, _):
 📎**Channel Link:** [Visit From Here]({channellink})
 🔗**Video Link:** [Link]({link})
 
-⚡️ __Searched Powered By {config.MUSIC_BOT_NAME}__"""
+⚡️ __Searched Powered By {config.AVNI MUSIC}__"""
             key = InlineKeyboardMarkup(
                 [
                     [
