@@ -1,3 +1,3 @@
-#AdityaPlayer
+#YONEMUSIC
 
 from .config import *
