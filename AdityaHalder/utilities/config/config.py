@@ -18,16 +18,16 @@ if os.path.exists("Internal"):
 # ╚╝╚╝╚══╝╚══╝─╚╝─╚══╝╚╝╚╝╚╝─╚═╝╚╝╚╝╚══╝╚═╝╚╩╝
 
 
-API_ID = int(getenv("API_ID", None))
-API_HASH = getenv("API_HASH", None)
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-MONGO_DB_URL = getenv("MONGO_DB_URL", None)
+API_ID = int(getenv("19986769"))
+API_HASH = getenv("ecdca6a8e80f8f5092c3712d221029e8")
+BOT_TOKEN = getenv("5481276507:AAEK17kDFjY7qvJPzz0jWjYA101NJ29jE6Y")
+MONGO_DB_URL = getenv("mongodb+srv://Mukesh01:chuprah@cluster0.dz9iv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "1200"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"-1001886783255))
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Misti music")
-OWNER_ID = list(map(int, getenv("OWNER_ID", None).split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID","5603547892").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/XdityaHalder/AdityaPlayer")
